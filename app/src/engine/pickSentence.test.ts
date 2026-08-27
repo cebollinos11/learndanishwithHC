@@ -42,4 +42,12 @@ describe("pickNextSentence", () => {
     const picked = pickNextSentence(corpus, new Set([1, 4]), null, new Set([1]));
     expect(picked?.id).toBe(2);
   });
+
+  it("skips a sentence whose lone unknown word has no gloss", () => {
+    const corpus = buildTestCorpus();
+    corpus.wordById.get(2)!.gloss = null; // "kat" now ungossed
+    const picked = pickNextSentence(corpus, new Set([1, 4]), null);
+    // Sentence 1 needs "kat" (ungossed) -- must be skipped in favor of sentence 2.
+    expect(picked?.id).toBe(2);
+  });
 });

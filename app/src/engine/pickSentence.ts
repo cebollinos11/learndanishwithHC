@@ -13,6 +13,8 @@ export function findTheUnknownWord(sentence: Sentence, knownIds: ReadonlySet<num
 /**
  * Picks the next drillable sentence: exactly one unknown word, preferring
  * the current tale (by position) and otherwise the easiest tale with candidates.
+ * The unknown word must have a gloss -- ungossed words (rank > ~7000) aren't
+ * surfaced as drill targets yet, since there'd be nothing to show for them.
  */
 export function pickNextSentence(
   corpus: Corpus,
@@ -23,7 +25,10 @@ export function pickNextSentence(
   const candidates: Sentence[] = [];
   for (const s of corpus.sentences) {
     if (excludeSentenceIds.has(s.id)) continue;
-    if (unknownCountForSentence(corpus, s.id, knownIds) === 1) candidates.push(s);
+    if (unknownCountForSentence(corpus, s.id, knownIds) !== 1) continue;
+    const unknownId = findTheUnknownWord(s, knownIds);
+    if (unknownId === null || corpus.wordById.get(unknownId)?.gloss == null) continue;
+    candidates.push(s);
   }
   if (candidates.length === 0) return null;
 
