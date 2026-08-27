@@ -12,6 +12,7 @@ import { ReaderView } from "./components/ReaderView";
 import { CoverageDashboard } from "./components/CoverageDashboard";
 import { ReviewQueue } from "./components/ReviewQueue";
 import { getDueWordIds } from "./engine/srs";
+import { useFlashcardHotkeys } from "./hooks/useFlashcardHotkeys";
 
 const RECENT_LIMIT = 25;
 
@@ -69,14 +70,10 @@ function App() {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [corpus, knownSet.size]);
 
-  if (!corpus) {
-    return <div className="loading">Loading corpus…</div>;
-  }
-
-  const targetWord = targetWordId ? corpus.wordById.get(targetWordId) ?? null : null;
+  const targetWord = corpus && targetWordId ? corpus.wordById.get(targetWordId) ?? null : null;
 
   const handleKnow = () => {
-    if (!targetWord) return;
+    if (!corpus || !targetWord) return;
     const before = knownSet;
     const after = new Set(before);
     after.add(targetWord.id);
@@ -95,6 +92,18 @@ function App() {
     setFeedback(null);
     advance(new Set([...recentSentenceIds, currentSentence.id]));
   };
+
+  useFlashcardHotkeys({
+    enabled: view === "drill" && !!currentSentence && !!targetWordId,
+    panelOpen,
+    onReveal: () => setPanelOpen(true),
+    onKnow: handleKnow,
+    onDontKnow: handleDontKnow,
+  });
+
+  if (!corpus) {
+    return <div className="loading">Loading corpus…</div>;
+  }
 
   return (
     <div className="app">
@@ -138,6 +147,9 @@ function App() {
               {panelOpen && targetWord && (
                 <WordPanel corpus={corpus} word={targetWord} onKnow={handleKnow} onDontKnow={handleDontKnow} />
               )}
+              <p className="hotkey-hint">
+                {panelOpen ? "← don't know · → know" : "↑ / ↓ reveal translation"}
+              </p>
             </>
           ) : (
             <p>No fully-drillable sentences left right now — keep learning to unlock more!</p>

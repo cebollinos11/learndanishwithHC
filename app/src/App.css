@@ -60,6 +60,13 @@
   margin: 0;
 }
 
+.hotkey-hint {
+  font-size: 0.8rem;
+  color: #aaa;
+  text-align: center;
+  margin: 16px 0 0;
+}
+
 .word-target {
   font: inherit;
   color: #1a5c9a;
