@@ -1,0 +1,968 @@
+[
+  {
+    "name": "Sneglen og rosenhækken",
+    "sentenceCount": 50,
+    "avgSentenceLength": 14.52,
+    "pctTop2000": 0.889967637540453,
+    "difficultyScore": 0.47303236245954694
+  },
+  {
+    "name": "Hørren",
+    "sentenceCount": 87,
+    "avgSentenceLength": 16.367816091954023,
+    "pctTop2000": 0.8890742285237698,
+    "difficultyScore": 0.5201211737750807
+  },
+  {
+    "name": "Loppen og professoren",
+    "sentenceCount": 89,
+    "avgSentenceLength": 14.51685393258427,
+    "pctTop2000": 0.8340535868625756,
+    "difficultyScore": 0.5288677614520312
+  },
+  {
+    "name": "Grantræet",
+    "sentenceCount": 167,
+    "avgSentenceLength": 17.305389221556887,
+    "pctTop2000": 0.8997203355972833,
+    "difficultyScore": 0.5329143949416388
+  },
+  {
+    "name": "Krøblingen",
+    "sentenceCount": 178,
+    "avgSentenceLength": 16.325842696629213,
+    "pctTop2000": 0.8713960546282246,
+    "difficultyScore": 0.5367500127875058
+  },
+  {
+    "name": "Lysene",
+    "sentenceCount": 49,
+    "avgSentenceLength": 16.46938775510204,
+    "pctTop2000": 0.8729281767955801,
+    "difficultyScore": 0.5388065170819709
+  },
+  {
+    "name": "Sommerfuglen",
+    "sentenceCount": 45,
+    "avgSentenceLength": 16.91111111111111,
+    "pctTop2000": 0.8668683812405447,
+    "difficultyScore": 0.5559093965372331
+  },
+  {
+    "name": "ABC-Bogen",
+    "sentenceCount": 87,
+    "avgSentenceLength": 12.758620689655173,
+    "pctTop2000": 0.7603305785123967,
+    "difficultyScore": 0.5586349387289826
+  },
+  {
+    "name": "Prinsessen på ærten",
+    "sentenceCount": 18,
+    "avgSentenceLength": 19.333333333333332,
+    "pctTop2000": 0.9172185430463576,
+    "difficultyScore": 0.5661147902869756
+  },
+  {
+    "name": "Flipperne",
+    "sentenceCount": 45,
+    "avgSentenceLength": 16.6,
+    "pctTop2000": 0.8487654320987654,
+    "difficultyScore": 0.5662345679012346
+  },
+  {
+    "name": "Hvad gamle Johanne fortalte",
+    "sentenceCount": 274,
+    "avgSentenceLength": 17.226277372262775,
+    "pctTop2000": 0.8590476190476191,
+    "difficultyScore": 0.5716093152589503
+  },
+  {
+    "name": "Klods-Hans",
+    "sentenceCount": 66,
+    "avgSentenceLength": 18.318181818181817,
+    "pctTop2000": 0.8818359375,
+    "difficultyScore": 0.5761186079545454
+  },
+  {
+    "name": "Skrubtudsen",
+    "sentenceCount": 126,
+    "avgSentenceLength": 18.246031746031747,
+    "pctTop2000": 0.8729591836734694,
+    "difficultyScore": 0.5831916099773243
+  },
+  {
+    "name": "Hvem var den lykkeligste?",
+    "sentenceCount": 73,
+    "avgSentenceLength": 17.28767123287671,
+    "pctTop2000": 0.8462929475587704,
+    "difficultyScore": 0.5858988332631474
+  },
+  {
+    "name": "Sneemanden",
+    "sentenceCount": 90,
+    "avgSentenceLength": 18.322222222222223,
+    "pctTop2000": 0.86722571628232,
+    "difficultyScore": 0.5908298392732355
+  },
+  {
+    "name": "Den uartige dreng",
+    "sentenceCount": 37,
+    "avgSentenceLength": 20.027027027027028,
+    "pctTop2000": 0.908284023668639,
+    "difficultyScore": 0.5923916520070367
+  },
+  {
+    "name": "\"Hun duede ikke\"",
+    "sentenceCount": 130,
+    "avgSentenceLength": 18.838461538461537,
+    "pctTop2000": 0.8754595588235294,
+    "difficultyScore": 0.595501979638009
+  },
+  {
+    "name": "Tante Tandpine",
+    "sentenceCount": 196,
+    "avgSentenceLength": 16.821428571428573,
+    "pctTop2000": 0.817806806462702,
+    "difficultyScore": 0.6027289078230124
+  },
+  {
+    "name": "Fyrtøjet",
+    "sentenceCount": 125,
+    "avgSentenceLength": 20.408,
+    "pctTop2000": 0.9015521064301553,
+    "difficultyScore": 0.6086478935698447
+  },
+  {
+    "name": "Skarnbassen",
+    "sentenceCount": 126,
+    "avgSentenceLength": 18.61111111111111,
+    "pctTop2000": 0.8511374876360039,
+    "difficultyScore": 0.6141402901417738
+  },
+  {
+    "name": "Hvad fatter gør, det er altid det rigtige",
+    "sentenceCount": 87,
+    "avgSentenceLength": 18.586206896551722,
+    "pctTop2000": 0.8499641062455133,
+    "difficultyScore": 0.6146910661682797
+  },
+  {
+    "name": "Portnøglen",
+    "sentenceCount": 194,
+    "avgSentenceLength": 18.09278350515464,
+    "pctTop2000": 0.8192145407335281,
+    "difficultyScore": 0.6331050468953379
+  },
+  {
+    "name": "Den store søslange",
+    "sentenceCount": 169,
+    "avgSentenceLength": 17.816568047337277,
+    "pctTop2000": 0.8098136173449981,
+    "difficultyScore": 0.6356005838384338
+  },
+  {
+    "name": "Sommergækken",
+    "sentenceCount": 60,
+    "avgSentenceLength": 20.266666666666666,
+    "pctTop2000": 0.8685770750988142,
+    "difficultyScore": 0.6380895915678524
+  },
+  {
+    "name": "\"Spørg Amagermor!\"",
+    "sentenceCount": 12,
+    "avgSentenceLength": 16.166666666666668,
+    "pctTop2000": 0.7607361963190185,
+    "difficultyScore": 0.6434304703476482
+  },
+  {
+    "name": "Stoppenålen",
+    "sentenceCount": 52,
+    "avgSentenceLength": 20.173076923076923,
+    "pctTop2000": 0.8577929465301479,
+    "difficultyScore": 0.6465339765467751
+  },
+  {
+    "name": "Tolv med posten",
+    "sentenceCount": 71,
+    "avgSentenceLength": 17.549295774647888,
+    "pctTop2000": 0.7896645512239348,
+    "difficultyScore": 0.6490678431422625
+  },
+  {
+    "name": "\"Danse, danse dukke min!\"",
+    "sentenceCount": 17,
+    "avgSentenceLength": 19.470588235294116,
+    "pctTop2000": 0.8374558303886925,
+    "difficultyScore": 0.6493088754936603
+  },
+  {
+    "name": "Nissen og madammen",
+    "sentenceCount": 75,
+    "avgSentenceLength": 18.453333333333333,
+    "pctTop2000": 0.8104304635761589,
+    "difficultyScore": 0.6509028697571744
+  },
+  {
+    "name": "Solskinshistorier",
+    "sentenceCount": 45,
+    "avgSentenceLength": 19.666666666666668,
+    "pctTop2000": 0.8309114927344782,
+    "difficultyScore": 0.6607551739321885
+  },
+  {
+    "name": "De små grønne",
+    "sentenceCount": 31,
+    "avgSentenceLength": 18.516129032258064,
+    "pctTop2000": 0.7947154471544715,
+    "difficultyScore": 0.6681877786519801
+  },
+  {
+    "name": "Hurtigløberne",
+    "sentenceCount": 12,
+    "avgSentenceLength": 19.583333333333332,
+    "pctTop2000": 0.8195121951219512,
+    "difficultyScore": 0.6700711382113822
+  },
+  {
+    "name": "Gåseurten",
+    "sentenceCount": 61,
+    "avgSentenceLength": 23.442622950819672,
+    "pctTop2000": 0.9096774193548387,
+    "difficultyScore": 0.6763881544156531
+  },
+  {
+    "name": "Hvad tidslen oplevede",
+    "sentenceCount": 59,
+    "avgSentenceLength": 19.694915254237287,
+    "pctTop2000": 0.8144126357354393,
+    "difficultyScore": 0.6779602456204928
+  },
+  {
+    "name": "Gemt er ikke glemt",
+    "sentenceCount": 42,
+    "avgSentenceLength": 21.238095238095237,
+    "pctTop2000": 0.8524590163934426,
+    "difficultyScore": 0.6784933645589384
+  },
+  {
+    "name": "Det utroligste",
+    "sentenceCount": 55,
+    "avgSentenceLength": 19.818181818181817,
+    "pctTop2000": 0.8089304257528557,
+    "difficultyScore": 0.6865241197016898
+  },
+  {
+    "name": "Fem fra en ærtebælg",
+    "sentenceCount": 50,
+    "avgSentenceLength": 22.04,
+    "pctTop2000": 0.8629550321199143,
+    "difficultyScore": 0.6880449678800856
+  },
+  {
+    "name": "Lykken kan ligge i en pind",
+    "sentenceCount": 37,
+    "avgSentenceLength": 21.783783783783782,
+    "pctTop2000": 0.8546255506607929,
+    "difficultyScore": 0.6899690439338017
+  },
+  {
+    "name": "Gartneren og herskabet",
+    "sentenceCount": 105,
+    "avgSentenceLength": 20.2,
+    "pctTop2000": 0.8137931034482758,
+    "difficultyScore": 0.6912068965517242
+  },
+  {
+    "name": "Den standhaftige tinsoldat",
+    "sentenceCount": 65,
+    "avgSentenceLength": 22.692307692307693,
+    "pctTop2000": 0.8712948517940717,
+    "difficultyScore": 0.6960128405136206
+  },
+  {
+    "name": "Kejserens nye klæder",
+    "sentenceCount": 64,
+    "avgSentenceLength": 23.015625,
+    "pctTop2000": 0.8776758409785933,
+    "difficultyScore": 0.6977147840214067
+  },
+  {
+    "name": "Svinedrengen",
+    "sentenceCount": 34,
+    "avgSentenceLength": 22.529411764705884,
+    "pctTop2000": 0.8607784431137725,
+    "difficultyScore": 0.7024568510038746
+  },
+  {
+    "name": "I andegården",
+    "sentenceCount": 80,
+    "avgSentenceLength": 22.6375,
+    "pctTop2000": 0.8626943005181347,
+    "difficultyScore": 0.7032431994818653
+  },
+  {
+    "name": "Hvad hele familien sagde",
+    "sentenceCount": 38,
+    "avgSentenceLength": 23.07894736842105,
+    "pctTop2000": 0.8726027397260274,
+    "difficultyScore": 0.7043709444844989
+  },
+  {
+    "name": "Elverhøj",
+    "sentenceCount": 101,
+    "avgSentenceLength": 21.405940594059405,
+    "pctTop2000": 0.8262017960908611,
+    "difficultyScore": 0.7089467187606241
+  },
+  {
+    "name": "Lille Claus og store Claus",
+    "sentenceCount": 166,
+    "avgSentenceLength": 25.126506024096386,
+    "pctTop2000": 0.9107725788900979,
+    "difficultyScore": 0.7173900717123117
+  },
+  {
+    "name": "Hvad man kan hitte på",
+    "sentenceCount": 48,
+    "avgSentenceLength": 21.6875,
+    "pctTop2000": 0.8191841234840133,
+    "difficultyScore": 0.7230033765159868
+  },
+  {
+    "name": "Vanddråben",
+    "sentenceCount": 22,
+    "avgSentenceLength": 24.318181818181817,
+    "pctTop2000": 0.8838268792710706,
+    "difficultyScore": 0.7241276661834748
+  },
+  {
+    "name": "Oldefar",
+    "sentenceCount": 62,
+    "avgSentenceLength": 22.06451612903226,
+    "pctTop2000": 0.8270181219110379,
+    "difficultyScore": 0.7245947813147686
+  },
+  {
+    "name": "Paradisets have",
+    "sentenceCount": 204,
+    "avgSentenceLength": 23.063725490196077,
+    "pctTop2000": 0.8516377649325626,
+    "difficultyScore": 0.7249553723223393
+  },
+  {
+    "name": "Den flyvende kuffert",
+    "sentenceCount": 80,
+    "avgSentenceLength": 23.7125,
+    "pctTop2000": 0.863937387116195,
+    "difficultyScore": 0.7288751128838049
+  },
+  {
+    "name": "Lykkens galocher",
+    "sentenceCount": 423,
+    "avgSentenceLength": 21.988179669030732,
+    "pctTop2000": 0.8181818181818182,
+    "difficultyScore": 0.7315226735439501
+  },
+  {
+    "name": "Gårdhanen og vejrhanen",
+    "sentenceCount": 34,
+    "avgSentenceLength": 21.08823529411765,
+    "pctTop2000": 0.7860780984719864,
+    "difficultyScore": 0.7411277838809548
+  },
+  {
+    "name": "Fugl Føniks",
+    "sentenceCount": 19,
+    "avgSentenceLength": 19.157894736842106,
+    "pctTop2000": 0.7375,
+    "difficultyScore": 0.7414473684210526
+  },
+  {
+    "name": "Skyggen",
+    "sentenceCount": 172,
+    "avgSentenceLength": 25.813953488372093,
+    "pctTop2000": 0.9020632737276478,
+    "difficultyScore": 0.7432855634816545
+  },
+  {
+    "name": "Nabofamilierne",
+    "sentenceCount": 138,
+    "avgSentenceLength": 24.92753623188406,
+    "pctTop2000": 0.877223578653645,
+    "difficultyScore": 0.7459648271434565
+  },
+  {
+    "name": "Den sidste perle",
+    "sentenceCount": 32,
+    "avgSentenceLength": 23.09375,
+    "pctTop2000": 0.8282674772036475,
+    "difficultyScore": 0.7490762727963526
+  },
+  {
+    "name": "Kometen",
+    "sentenceCount": 55,
+    "avgSentenceLength": 23.10909090909091,
+    "pctTop2000": 0.8244343891402715,
+    "difficultyScore": 0.7532928835870013
+  },
+  {
+    "name": "Storkene",
+    "sentenceCount": 60,
+    "avgSentenceLength": 26.35,
+    "pctTop2000": 0.9009679821295606,
+    "difficultyScore": 0.7577820178704394
+  },
+  {
+    "name": "Tommelise",
+    "sentenceCount": 146,
+    "avgSentenceLength": 26.883561643835616,
+    "pctTop2000": 0.9135008766803039,
+    "difficultyScore": 0.7585881644155865
+  },
+  {
+    "name": "Snedronningen",
+    "sentenceCount": 415,
+    "avgSentenceLength": 26.089156626506025,
+    "pctTop2000": 0.882587948063478,
+    "difficultyScore": 0.7696409675991727
+  },
+  {
+    "name": "Den lille Idas blomster",
+    "sentenceCount": 103,
+    "avgSentenceLength": 26.699029126213592,
+    "pctTop2000": 0.8973808501502791,
+    "difficultyScore": 0.7700948780050607
+  },
+  {
+    "name": "Hønse-Grethes familie",
+    "sentenceCount": 186,
+    "avgSentenceLength": 23.322580645161292,
+    "pctTop2000": 0.8120261437908497,
+    "difficultyScore": 0.7710383723381826
+  },
+  {
+    "name": "Verdens dejligste rose",
+    "sentenceCount": 29,
+    "avgSentenceLength": 24.448275862068964,
+    "pctTop2000": 0.8218298555377207,
+    "difficultyScore": 0.7893770410140034
+  },
+  {
+    "name": "Boghveden",
+    "sentenceCount": 23,
+    "avgSentenceLength": 25.695652173913043,
+    "pctTop2000": 0.8523622047244095,
+    "difficultyScore": 0.7900290996234166
+  },
+  {
+    "name": "En historie",
+    "sentenceCount": 59,
+    "avgSentenceLength": 24.966101694915253,
+    "pctTop2000": 0.825219473264166,
+    "difficultyScore": 0.7989330691087153
+  },
+  {
+    "name": "Det gamle hus",
+    "sentenceCount": 97,
+    "avgSentenceLength": 27.90721649484536,
+    "pctTop2000": 0.8862470862470863,
+    "difficultyScore": 0.8114333261240477
+  },
+  {
+    "name": "På den yderste dag",
+    "sentenceCount": 50,
+    "avgSentenceLength": 24.32,
+    "pctTop2000": 0.7956131605184447,
+    "difficultyScore": 0.8123868394815553
+  },
+  {
+    "name": "Kærestefolkene (Toppen og bolden)",
+    "sentenceCount": 27,
+    "avgSentenceLength": 28,
+    "pctTop2000": 0.8848,
+    "difficultyScore": 0.8151999999999999
+  },
+  {
+    "name": "Svanereden",
+    "sentenceCount": 19,
+    "avgSentenceLength": 23.210526315789473,
+    "pctTop2000": 0.7588832487309645,
+    "difficultyScore": 0.8213799091637723
+  },
+  {
+    "name": "Historien om en moder",
+    "sentenceCount": 64,
+    "avgSentenceLength": 29.34375,
+    "pctTop2000": 0.9107830551989731,
+    "difficultyScore": 0.822810694801027
+  },
+  {
+    "name": "To jomfruer",
+    "sentenceCount": 21,
+    "avgSentenceLength": 25.61904761904762,
+    "pctTop2000": 0.8100436681222707,
+    "difficultyScore": 0.8304325223539198
+  },
+  {
+    "name": "Moster",
+    "sentenceCount": 72,
+    "avgSentenceLength": 25.416666666666668,
+    "pctTop2000": 0.8041958041958042,
+    "difficultyScore": 0.8312208624708626
+  },
+  {
+    "name": "Et billede fra kastelsvolden",
+    "sentenceCount": 10,
+    "avgSentenceLength": 24.3,
+    "pctTop2000": 0.775609756097561,
+    "difficultyScore": 0.831890243902439
+  },
+  {
+    "name": "Hjertesorg",
+    "sentenceCount": 24,
+    "avgSentenceLength": 25.583333333333332,
+    "pctTop2000": 0.8072519083969466,
+    "difficultyScore": 0.8323314249363867
+  },
+  {
+    "name": "Ugedagene",
+    "sentenceCount": 28,
+    "avgSentenceLength": 22.142857142857142,
+    "pctTop2000": 0.720226843100189,
+    "difficultyScore": 0.8333445854712396
+  },
+  {
+    "name": "Årets historie",
+    "sentenceCount": 108,
+    "avgSentenceLength": 26.046296296296298,
+    "pctTop2000": 0.8153191489361702,
+    "difficultyScore": 0.8358382584712373
+  },
+  {
+    "name": "Peiter, Peter og Peer",
+    "sentenceCount": 62,
+    "avgSentenceLength": 26.274193548387096,
+    "pctTop2000": 0.8193403298350824,
+    "difficultyScore": 0.837514508874595
+  },
+  {
+    "name": "Den onde fyrste",
+    "sentenceCount": 32,
+    "avgSentenceLength": 24.71875,
+    "pctTop2000": 0.7726638772663877,
+    "difficultyScore": 0.8453048727336122
+  },
+  {
+    "name": "Det er ganske vist!",
+    "sentenceCount": 27,
+    "avgSentenceLength": 27.62962962962963,
+    "pctTop2000": 0.8410174880763116,
+    "difficultyScore": 0.8497232526644292
+  },
+  {
+    "name": "Den lykkelige Familie",
+    "sentenceCount": 41,
+    "avgSentenceLength": 27.341463414634145,
+    "pctTop2000": 0.8300653594771242,
+    "difficultyScore": 0.8534712258887294
+  },
+  {
+    "name": "Rejsekammeraten",
+    "sentenceCount": 231,
+    "avgSentenceLength": 30.458874458874458,
+    "pctTop2000": 0.9074533135019005,
+    "difficultyScore": 0.8540185479699609
+  },
+  {
+    "name": "Bedstemoder",
+    "sentenceCount": 21,
+    "avgSentenceLength": 30.19047619047619,
+    "pctTop2000": 0.8974854932301741,
+    "difficultyScore": 0.8572764115317306
+  },
+  {
+    "name": "Folkesangens fugl (En stemning)",
+    "sentenceCount": 36,
+    "avgSentenceLength": 24.583333333333332,
+    "pctTop2000": 0.7559366754617414,
+    "difficultyScore": 0.8586466578715919
+  },
+  {
+    "name": "Sølvskillingen",
+    "sentenceCount": 50,
+    "avgSentenceLength": 29.78,
+    "pctTop2000": 0.8773109243697479,
+    "difficultyScore": 0.8671890756302522
+  },
+  {
+    "name": "Et blad fra Himmelen",
+    "sentenceCount": 35,
+    "avgSentenceLength": 28.142857142857142,
+    "pctTop2000": 0.8323281061519904,
+    "difficultyScore": 0.8712433224194381
+  },
+  {
+    "name": "Laserne",
+    "sentenceCount": 22,
+    "avgSentenceLength": 25.227272727272727,
+    "pctTop2000": 0.7548387096774194,
+    "difficultyScore": 0.8758431085043987
+  },
+  {
+    "name": "Det gamle egetræs sidste drøm",
+    "sentenceCount": 64,
+    "avgSentenceLength": 28.171875,
+    "pctTop2000": 0.8279352226720648,
+    "difficultyScore": 0.8763616523279353
+  },
+  {
+    "name": "Springfyrene",
+    "sentenceCount": 21,
+    "avgSentenceLength": 28.904761904761905,
+    "pctTop2000": 0.8458498023715415,
+    "difficultyScore": 0.8767692452475061
+  },
+  {
+    "name": "Vænø og Glænø",
+    "sentenceCount": 23,
+    "avgSentenceLength": 25.47826086956522,
+    "pctTop2000": 0.7595419847328244,
+    "difficultyScore": 0.877414537006306
+  },
+  {
+    "name": "Nattergalen",
+    "sentenceCount": 107,
+    "avgSentenceLength": 30.289719626168225,
+    "pctTop2000": 0.8791744840525328,
+    "difficultyScore": 0.8780685066016728
+  },
+  {
+    "name": "Metalsvinet",
+    "sentenceCount": 131,
+    "avgSentenceLength": 27.931297709923665,
+    "pctTop2000": 0.8199052132701422,
+    "difficultyScore": 0.8783772294779494
+  },
+  {
+    "name": "Ib og lille Christine",
+    "sentenceCount": 129,
+    "avgSentenceLength": 29.31782945736434,
+    "pctTop2000": 0.852400902352562,
+    "difficultyScore": 0.8805448340815465
+  },
+  {
+    "name": "To brødre",
+    "sentenceCount": 21,
+    "avgSentenceLength": 28.285714285714285,
+    "pctTop2000": 0.821917808219178,
+    "difficultyScore": 0.885225048923679
+  },
+  {
+    "name": "Fra et vindue i Vartov",
+    "sentenceCount": 16,
+    "avgSentenceLength": 28.25,
+    "pctTop2000": 0.8137755102040817,
+    "difficultyScore": 0.8924744897959184
+  },
+  {
+    "name": "Pigen, som trådte på brødet",
+    "sentenceCount": 99,
+    "avgSentenceLength": 28.636363636363637,
+    "pctTop2000": 0.8118811881188119,
+    "difficultyScore": 0.904027902790279
+  },
+  {
+    "name": "Den grimme ælling",
+    "sentenceCount": 106,
+    "avgSentenceLength": 31.754716981132077,
+    "pctTop2000": 0.8883136094674556,
+    "difficultyScore": 0.9055543150608463
+  },
+  {
+    "name": "Den lille havfrue",
+    "sentenceCount": 249,
+    "avgSentenceLength": 32.06024096385542,
+    "pctTop2000": 0.8771168041684759,
+    "difficultyScore": 0.9243892199279096
+  },
+  {
+    "name": "Ole Lukøje",
+    "sentenceCount": 112,
+    "avgSentenceLength": 32.455357142857146,
+    "pctTop2000": 0.8707598371777476,
+    "difficultyScore": 0.940624091393681
+  },
+  {
+    "name": "Hyrdinden og skorstensfejeren",
+    "sentenceCount": 51,
+    "avgSentenceLength": 31.901960784313726,
+    "pctTop2000": 0.8516566265060241,
+    "difficultyScore": 0.945892393101819
+  },
+  {
+    "name": "Vinden fortæller om Valdemar Dåe og hans døtre",
+    "sentenceCount": 40,
+    "avgSentenceLength": 27.25,
+    "pctTop2000": 0.7347826086956522,
+    "difficultyScore": 0.9464673913043479
+  },
+  {
+    "name": "Englen",
+    "sentenceCount": 25,
+    "avgSentenceLength": 33.6,
+    "pctTop2000": 0.890961262553802,
+    "difficultyScore": 0.949038737446198
+  },
+  {
+    "name": "Nissen hos spækhøkeren",
+    "sentenceCount": 37,
+    "avgSentenceLength": 32.45945945945946,
+    "pctTop2000": 0.8467908902691511,
+    "difficultyScore": 0.9646955962173354
+  },
+  {
+    "name": "Den gamle gadelygte",
+    "sentenceCount": 70,
+    "avgSentenceLength": 33.15714285714286,
+    "pctTop2000": 0.8639085465432771,
+    "difficultyScore": 0.9650200248852944
+  },
+  {
+    "name": "\"Alt på sin rette plads!\"",
+    "sentenceCount": 90,
+    "avgSentenceLength": 31.244444444444444,
+    "pctTop2000": 0.8150862068965518,
+    "difficultyScore": 0.9660249042145593
+  },
+  {
+    "name": "Tepotten",
+    "sentenceCount": 18,
+    "avgSentenceLength": 30.555555555555557,
+    "pctTop2000": 0.7972027972027972,
+    "difficultyScore": 0.9666860916860918
+  },
+  {
+    "name": "Vejrmøllen",
+    "sentenceCount": 26,
+    "avgSentenceLength": 31.5,
+    "pctTop2000": 0.8121019108280255,
+    "difficultyScore": 0.9753980891719745
+  },
+  {
+    "name": "De røde sko",
+    "sentenceCount": 60,
+    "avgSentenceLength": 35.233333333333334,
+    "pctTop2000": 0.8995037220843672,
+    "difficultyScore": 0.9813296112489661
+  },
+  {
+    "name": "Den gamle gravsten",
+    "sentenceCount": 32,
+    "avgSentenceLength": 31.96875,
+    "pctTop2000": 0.8157575757575758,
+    "difficultyScore": 0.9834611742424242
+  },
+  {
+    "name": "Lille Tuk",
+    "sentenceCount": 41,
+    "avgSentenceLength": 34.1219512195122,
+    "pctTop2000": 0.8640072529465095,
+    "difficultyScore": 0.9890415275412955
+  },
+  {
+    "name": "Den stumme bog",
+    "sentenceCount": 18,
+    "avgSentenceLength": 33.22222222222222,
+    "pctTop2000": 0.8329809725158562,
+    "difficultyScore": 0.9975745830396993
+  },
+  {
+    "name": "Pengegrisen",
+    "sentenceCount": 22,
+    "avgSentenceLength": 33,
+    "pctTop2000": 0.8244406196213425,
+    "difficultyScore": 1.0005593803786574
+  },
+  {
+    "name": "En rose fra Homers grav",
+    "sentenceCount": 13,
+    "avgSentenceLength": 32,
+    "pctTop2000": 0.7938718662952646,
+    "difficultyScore": 1.0061281337047354
+  },
+  {
+    "name": "Venskabspagten",
+    "sentenceCount": 90,
+    "avgSentenceLength": 33.577777777777776,
+    "pctTop2000": 0.8324690865576386,
+    "difficultyScore": 1.0069753578868057
+  },
+  {
+    "name": "Suppe på en pølsepind",
+    "sentenceCount": 139,
+    "avgSentenceLength": 32.54676258992806,
+    "pctTop2000": 0.8041599135602377,
+    "difficultyScore": 1.0095091511879637
+  },
+  {
+    "name": "Den lille pige med svovlstikkerne",
+    "sentenceCount": 24,
+    "avgSentenceLength": 35.833333333333336,
+    "pctTop2000": 0.8799435028248588,
+    "difficultyScore": 1.0158898305084745
+  },
+  {
+    "name": "Marionetspilleren",
+    "sentenceCount": 42,
+    "avgSentenceLength": 34.11904761904762,
+    "pctTop2000": 0.820738137082601,
+    "difficultyScore": 1.0322380533935895
+  },
+  {
+    "name": "Under piletræet",
+    "sentenceCount": 145,
+    "avgSentenceLength": 36.0551724137931,
+    "pctTop2000": 0.8646288209606987,
+    "difficultyScore": 1.0367504893841288
+  },
+  {
+    "name": "\"Ærens tornevej\"",
+    "sentenceCount": 42,
+    "avgSentenceLength": 27.595238095238095,
+    "pctTop2000": 0.6486751717369971,
+    "difficultyScore": 1.0412057806439554
+  },
+  {
+    "name": "\"Noget\"",
+    "sentenceCount": 62,
+    "avgSentenceLength": 35.725806451612904,
+    "pctTop2000": 0.8509280742459396,
+    "difficultyScore": 1.042217087044383
+  },
+  {
+    "name": "De vilde svaner",
+    "sentenceCount": 156,
+    "avgSentenceLength": 36.455128205128204,
+    "pctTop2000": 0.8681865284974093,
+    "difficultyScore": 1.0431916766307958
+  },
+  {
+    "name": "Hyldemor",
+    "sentenceCount": 73,
+    "avgSentenceLength": 36.84931506849315,
+    "pctTop2000": 0.8779296875,
+    "difficultyScore": 1.0433031892123288
+  },
+  {
+    "name": "Den gamle kirkeklokke",
+    "sentenceCount": 46,
+    "avgSentenceLength": 33.130434782608695,
+    "pctTop2000": 0.7837837837837838,
+    "difficultyScore": 1.0444770857814336
+  },
+  {
+    "name": "\"Der er forskel\"",
+    "sentenceCount": 33,
+    "avgSentenceLength": 34.75757575757576,
+    "pctTop2000": 0.8211111111111111,
+    "difficultyScore": 1.0478282828282828
+  },
+  {
+    "name": "Jødepigen",
+    "sentenceCount": 41,
+    "avgSentenceLength": 34.26829268292683,
+    "pctTop2000": 0.7789824854045038,
+    "difficultyScore": 1.077724831668667
+  },
+  {
+    "name": "Om årtusinder",
+    "sentenceCount": 19,
+    "avgSentenceLength": 29.68421052631579,
+    "pctTop2000": 0.659877800407332,
+    "difficultyScore": 1.0822274627505628
+  },
+  {
+    "name": "Et godt humør",
+    "sentenceCount": 38,
+    "avgSentenceLength": 36.8421052631579,
+    "pctTop2000": 0.8381818181818181,
+    "difficultyScore": 1.0828708133971294
+  },
+  {
+    "name": "Rosenalfen",
+    "sentenceCount": 45,
+    "avgSentenceLength": 38.733333333333334,
+    "pctTop2000": 0.8841082581540597,
+    "difficultyScore": 1.0842250751792737
+  },
+  {
+    "name": "Et stykke perlesnor",
+    "sentenceCount": 56,
+    "avgSentenceLength": 35.82142857142857,
+    "pctTop2000": 0.8024764150943396,
+    "difficultyScore": 1.0930592991913746
+  },
+  {
+    "name": "Dyndkongens datter",
+    "sentenceCount": 345,
+    "avgSentenceLength": 35.43768115942029,
+    "pctTop2000": 0.7774254285997424,
+    "difficultyScore": 1.108516600385765
+  },
+  {
+    "name": "Pebersvendens nathue",
+    "sentenceCount": 115,
+    "avgSentenceLength": 36.00869565217391,
+    "pctTop2000": 0.784325637910085,
+    "difficultyScore": 1.115891753394263
+  },
+  {
+    "name": "Flaskehalsen",
+    "sentenceCount": 86,
+    "avgSentenceLength": 39.604651162790695,
+    "pctTop2000": 0.8538692712246432,
+    "difficultyScore": 1.1362470078451241
+  },
+  {
+    "name": "De vises sten",
+    "sentenceCount": 135,
+    "avgSentenceLength": 39.18518518518518,
+    "pctTop2000": 0.8192412596082321,
+    "difficultyScore": 1.1603883700213975
+  },
+  {
+    "name": "Tællelyset",
+    "sentenceCount": 18,
+    "avgSentenceLength": 35.77777777777778,
+    "pctTop2000": 0.7316602316602316,
+    "difficultyScore": 1.1627842127842127
+  },
+  {
+    "name": "Klokkedybet",
+    "sentenceCount": 27,
+    "avgSentenceLength": 40.7037037037037,
+    "pctTop2000": 0.8129496402877698,
+    "difficultyScore": 1.2046429523048228
+  },
+  {
+    "name": "Holger Danske",
+    "sentenceCount": 37,
+    "avgSentenceLength": 42.189189189189186,
+    "pctTop2000": 0.8489761092150171,
+    "difficultyScore": 1.2057536205147126
+  },
+  {
+    "name": "Klokken",
+    "sentenceCount": 40,
+    "avgSentenceLength": 44.475,
+    "pctTop2000": 0.8524011299435028,
+    "difficultyScore": 1.2594738700564971
+  },
+  {
+    "name": "Ved det yderste hav",
+    "sentenceCount": 11,
+    "avgSentenceLength": 59.63636363636363,
+    "pctTop2000": 0.7868525896414342,
+    "difficultyScore": 1.7040565012676565
+  }
+]
