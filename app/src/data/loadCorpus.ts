@@ -1,10 +1,11 @@
 import type { Corpus, Sentence, Tale, Word } from "./types";
 
 export async function loadCorpus(): Promise<Corpus> {
+  const base = import.meta.env.BASE_URL;
   const [words, sentences, tales]: [Word[], Sentence[], Tale[]] = await Promise.all([
-    fetch("/data/words.json").then((r) => r.json()),
-    fetch("/data/sentences.json").then((r) => r.json()),
-    fetch("/data/tales.json").then((r) => r.json()),
+    fetch(`${base}data/words.json`).then((r) => r.json()),
+    fetch(`${base}data/sentences.json`).then((r) => r.json()),
+    fetch(`${base}data/tales.json`).then((r) => r.json()),
   ]);
 
   const wordById = new Map(words.map((w) => [w.id, w]));
